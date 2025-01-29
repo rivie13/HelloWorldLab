@@ -1,4 +1,4 @@
-###Hello World Lab App
+### Hello World Lab App
 
 This app starts by saying Hello World and has an edit text object for a user to enter there name and then a click me button which will change the app to show Hello (user input) instead of Hello World
 
